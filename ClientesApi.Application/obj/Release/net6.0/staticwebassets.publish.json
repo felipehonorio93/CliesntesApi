@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qx1vlCVs8XVyQNLtVF0XLVbo41j+DxRwyFzVY8H6eKg=",
+  "Source": "ClientesApi.Application",
+  "BasePath": "_content/ClientesApi.Application",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

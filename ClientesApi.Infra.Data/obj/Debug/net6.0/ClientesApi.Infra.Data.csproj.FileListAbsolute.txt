@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\bin\Debug\net6.0\ClientesApi.Infra.Data.deps.json
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\bin\Debug\net6.0\ClientesApi.Infra.Data.runtimeconfig.json
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\bin\Debug\net6.0\ClientesApi.Infra.Data.dll
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\bin\Debug\net6.0\ClientesApi.Infra.Data.pdb
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\bin\Debug\net6.0\ClientesApi.Domain.dll
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\bin\Debug\net6.0\ClientesApi.Domain.pdb
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\ClientesApi.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\ClientesApi.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\ClientesApi.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\ClientesApi.Infra.Data.AssemblyInfo.cs
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\ClientesApi.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\ClientesApi.Infra.Data.csproj.CopyComplete
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\ClientesApi.Infra.Data.dll
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\refint\ClientesApi.Infra.Data.dll
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\ClientesApi.Infra.Data.pdb
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\ClientesApi.Infra.Data.genruntimeconfig.cache
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Infra.Data\obj\Debug\net6.0\ref\ClientesApi.Infra.Data.dll

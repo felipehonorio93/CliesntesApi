@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\bin\Release\net6.0\ClientesApi.Domain.deps.json
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\bin\Release\net6.0\ClientesApi.Domain.dll
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\bin\Release\net6.0\ClientesApi.Domain.pdb
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\obj\Release\net6.0\ClientesApi.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\obj\Release\net6.0\ClientesApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\obj\Release\net6.0\ClientesApi.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\obj\Release\net6.0\ClientesApi.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\obj\Release\net6.0\ClientesApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\obj\Release\net6.0\ClientesApi.Domain.dll
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\obj\Release\net6.0\refint\ClientesApi.Domain.dll
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\obj\Release\net6.0\ClientesApi.Domain.pdb
+C:\Users\User\source\repos\ClientesApi\ClientesApi.Domain\obj\Release\net6.0\ref\ClientesApi.Domain.dll

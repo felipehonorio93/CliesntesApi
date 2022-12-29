@@ -1,0 +1,5 @@
+{
+  "ClientesApi.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\source\\repos\\ClientesApi\\ClientesApi.Application",
+  "ClientesApi.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\source\\repos\\ClientesApi\\ClientesApi.Domain",
+  "ClientesApi.Infra.Data, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\User\\source\\repos\\ClientesApi\\ClientesApi.Infra.Data"
+}
